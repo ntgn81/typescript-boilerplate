@@ -18,7 +18,10 @@
   "homepage": "https://github.com/ntgn81/typescript-boilerplate#readme",
   "devDependencies": {
     "@types/node": "^8.10.22",
+    "prettier": "^1.14.0",
     "ts-node": "^7.0.0",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.14.0",
     "typescript": "^2.9.2"
   },
   "engines": {
