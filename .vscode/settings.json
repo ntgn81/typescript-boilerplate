@@ -4,7 +4,6 @@
   "[javascriptreact]": { "editor.formatOnSave": false },
   "[typescript]": { "editor.formatOnSave": false },
   "[typescriptreact]": { "editor.formatOnSave": false },
-  "eslint.enable": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   }
